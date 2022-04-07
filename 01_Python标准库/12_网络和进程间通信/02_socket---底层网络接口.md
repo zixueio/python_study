@@ -14,3 +14,6 @@
 4. 接收数据（接听）
 5. 关闭客户端套接字（挂电话)
 
+![image](https://user-images.githubusercontent.com/12490550/162151088-bb03f23b-0ad1-41b5-b764-35621c39d605.png)
+
+
